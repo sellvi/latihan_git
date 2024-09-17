@@ -14,7 +14,7 @@
             <th>ID KELAS</th>
             <th>NAMA KELAS</th>
             <th>WALI KELAS</th>
-            <th>AKSI</th>
+            <th>action</th>
         </tr>
         <?php
         include 'koneksi.php';
